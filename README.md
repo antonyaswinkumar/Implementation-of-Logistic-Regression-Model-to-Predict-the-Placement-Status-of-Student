@@ -7,11 +7,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. Load the placement dataset and remove unnecessary columns and duplicate values.
-2. Convert categorical data into numerical values using Label Encoding.
-3. Split the dataset into training and testing sets, then train the Logistic Regression model.
-4. Predict the results, calculate accuracy, and display the confusion matrix and classification report.
+## Algorithm:
+1. Import the required libraries for logistic regression.
+2. Load the placement dataset and remove unnecessary columns and duplicate values.
+3. Convert categorical data into numerical values using Label Encoding.
+4. Split the dataset into training and testing sets, then train the Logistic Regression model.
+5. Predict the results, calculate accuracy, and display the confusion matrix and classification report.
 
 ## Program:
 ```
